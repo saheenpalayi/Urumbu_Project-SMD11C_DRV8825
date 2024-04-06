@@ -17,9 +17,9 @@ I wanted to try out the Urumbu Project by Neil Gershenfeld, at SuperFablab Keral
 
 ## Testing
 
-<img src="media/Test.mp4" width="100%">
 
-<video controls src="media/Test.mp4" title="Title"></video>
+[![Watch the video](media/video.png)](https://gitlab.fabcloud.org/saheen.palayi/urumbu_project-smd11c_drv8825/-/raw/main/media/Test.mp4)
+
 
 ## Downloads
 - [SAMD11_DRV8825_NEM17.pdf](<design files/Kicad Files/SAMD11_DRV8825_NEM17.pdf>)
